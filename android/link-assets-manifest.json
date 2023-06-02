@@ -1,0 +1,313 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/asserts/fonts/Fredoka/Fredoka-VariableFont_wdth,wght.ttf",
+      "sha1": "edf6e6d443a1a98164af4c118c55d828cef5a57b"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/OFL.txt",
+      "sha1": "277943ead90205748beec09d3b00a080248284d6"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/README.txt",
+      "sha1": "5cec3a4e4a88f8eddc2cee92870ce2cbdcac143a"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka/Fredoka-Bold.ttf",
+      "sha1": "fa86a99a2d53612202b44c49af9c7a28482480bb"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka/Fredoka-Light.ttf",
+      "sha1": "3d5884d8c7a66e5dd23af456dfe3e5e23b36b3ae"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka/Fredoka-Medium.ttf",
+      "sha1": "563c4f6a77bf54cb04a4242e577f43db19128d2a"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka/Fredoka-Regular.ttf",
+      "sha1": "520ab11425914a594eaf883a7d5bd40fc985f823"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka/Fredoka-SemiBold.ttf",
+      "sha1": "6f3c2527737fcc84e3fdfd4c6437bb52d02072b4"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Condensed/Fredoka_Condensed-Bold.ttf",
+      "sha1": "e5b67935276c9256e8b292192154d3fbc05f2499"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Condensed/Fredoka_Condensed-Light.ttf",
+      "sha1": "c5014e7b4393e5045976961bf65205c13600958f"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Condensed/Fredoka_Condensed-Medium.ttf",
+      "sha1": "f1e133176e30d0b6d850765f01d7c12c3880a8e5"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Condensed/Fredoka_Condensed-Regular.ttf",
+      "sha1": "ef320429ec2884bf54fbec3f3c39eb6f81628bf1"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Condensed/Fredoka_Condensed-SemiBold.ttf",
+      "sha1": "e14d8b2a5f4ccbb0cd3d11ee27ccb5acfcec7ff6"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Expanded/Fredoka_Expanded-Bold.ttf",
+      "sha1": "c31b3ca716bf42093c4dc5b3c3f6106f75ce9690"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Expanded/Fredoka_Expanded-Light.ttf",
+      "sha1": "1103b6969374cb7314c69a0e2f21c3ebaf2a58a0"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Expanded/Fredoka_Expanded-Medium.ttf",
+      "sha1": "2bb40e0570d120efb313eb68a70cb686e054a5f4"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Expanded/Fredoka_Expanded-Regular.ttf",
+      "sha1": "cab341d5e50de996c11cdc5124eb3ce28c175433"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_Expanded/Fredoka_Expanded-SemiBold.ttf",
+      "sha1": "cb25b5287490ef6fc652bbb6d04d8c61edd9dbbf"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiCondensed/Fredoka_SemiCondensed-Bold.ttf",
+      "sha1": "9b70110b4ccf255bb9300dce4db64d2ea4840e14"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiCondensed/Fredoka_SemiCondensed-Light.ttf",
+      "sha1": "0193aaa5a371b77542fc2163fd6c91f854a625a0"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiCondensed/Fredoka_SemiCondensed-Medium.ttf",
+      "sha1": "3314cb8056da5b84e3bca15cd187d380eca43f6b"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiCondensed/Fredoka_SemiCondensed-Regular.ttf",
+      "sha1": "6053ac32a72f1c0c136d2f9a4a483b4740a426a2"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiCondensed/Fredoka_SemiCondensed-SemiBold.ttf",
+      "sha1": "0a59fc0952e84268b3fd76b3fd658f6c14709e56"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiExpanded/Fredoka_SemiExpanded-Bold.ttf",
+      "sha1": "9aa71724d3a6960da0d2d6b7c1ab3a84f7063da3"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiExpanded/Fredoka_SemiExpanded-Light.ttf",
+      "sha1": "2272fe7c8e7e6dd4f8c6965df51f31dfc1abf8e7"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiExpanded/Fredoka_SemiExpanded-Medium.ttf",
+      "sha1": "fa292291f018f21fe8d271b0603e064db4d1214c"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiExpanded/Fredoka_SemiExpanded-Regular.ttf",
+      "sha1": "0f64189d5be14b064602d8b70eb1ac85c7a61fc3"
+    },
+    {
+      "path": "src/asserts/fonts/Fredoka/static/Fredoka_SemiExpanded/Fredoka_SemiExpanded-SemiBold.ttf",
+      "sha1": "cec328740f1ed2ed1e1ed0a81aa06fe68adcddeb"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-Bold.ttf",
+      "sha1": "a1c0d2ca862a2e6e95725c5b693da7b4f13c14ae"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-BoldItalic.ttf",
+      "sha1": "079489c88f1c0f8c6e3e33a87c761fa573e5166b"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-ExtraBold.ttf",
+      "sha1": "8fb212903ca76f1a33b130eaee1514859ce14ded"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-ExtraBoldItalic.ttf",
+      "sha1": "9dd8254554828ec92398f52e599beda6615943c4"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-ExtraLight.ttf",
+      "sha1": "cf4a7cef69a77cd4122c68f6f7975ced631af588"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-ExtraLightItalic.ttf",
+      "sha1": "924bbbd6801552dae0beeaec5a630f925ccb4f69"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-Italic.ttf",
+      "sha1": "f716304cfcd13efa077576cf760923605f408955"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-Light.ttf",
+      "sha1": "cc2e4019be0cbe767776d8663ed9d188f79e0891"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-LightItalic.ttf",
+      "sha1": "cd6efa12795148ef9f45fa8de592378908322c64"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-Medium.ttf",
+      "sha1": "fb3f0367528e94dde5f96fde52280fa70aa352f4"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-MediumItalic.ttf",
+      "sha1": "eb84585a8a63f45d7a8931c8570f3e69bbf7e091"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-Regular.ttf",
+      "sha1": "0b9dc056d96e700bf4405e1e1e5f6b6a14d56d8e"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-SemiBold.ttf",
+      "sha1": "dc5eddeb063a9ac043ba101ae8b0afe9a75a814e"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-SemiBoldItalic.ttf",
+      "sha1": "1f742797857e0a34dee27a808787790612857e1e"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-Thin.ttf",
+      "sha1": "fe369f5e12f17c2a091b3a4ad01a76b8af120a72"
+    },
+    {
+      "path": "src/asserts/fonts/K2D/K2D-ThinItalic.ttf",
+      "sha1": "780218277c4c3c5a49ce76a2fa59c6dd91f981e2"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf",
+      "sha1": "df1a17b6a12a7518575abe3f5cdc1d6cb0c7b390"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/Montserrat-VariableFont_wght.ttf",
+      "sha1": "b30f63a27bcdc61c2458d0ddfbbe738a01e39714"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-Black.ttf",
+      "sha1": "fca130f21601346cce37bb8a9526ff01af66d912"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-BlackItalic.ttf",
+      "sha1": "50ca0660179c28c31ef1debc55506a1eab366446"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-BoldItalic.ttf",
+      "sha1": "ed5e533b6571e33adb6d01298cb8d1a5a2466657"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-ExtraBold.ttf",
+      "sha1": "1914bc1981e6ceceadb2f6d72455b4e89e04965c"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-ExtraBoldItalic.ttf",
+      "sha1": "49758a0ea59fe7f82c639a385a2bacf3d4de3398"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-ExtraLight.ttf",
+      "sha1": "7c594b126941460bd2f3b47097fd6222f52277e7"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-ExtraLightItalic.ttf",
+      "sha1": "fbbb972b616c3b84d99976ddf84b6fecdeb4c7ca"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-Italic.ttf",
+      "sha1": "4ee8f07c7414009645d03d87cd72df15658fe9f4"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-Light.ttf",
+      "sha1": "6f21894a80049259ef71fcba135218695b41b67a"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-LightItalic.ttf",
+      "sha1": "8e980f76a35675acd586f829dd2ae8d002dd97d6"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-MediumItalic.ttf",
+      "sha1": "8b2c464e42f07fc307fddb9c58d202ecff19be2a"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-SemiBoldItalic.ttf",
+      "sha1": "51626902f9f2b0aa24b235bb68b2640622f156b9"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-Thin.ttf",
+      "sha1": "8c871991960f520a31635f95be6c346b659e2c8c"
+    },
+    {
+      "path": "src/asserts/fonts/Montserrat/static/Montserrat-ThinItalic.ttf",
+      "sha1": "f7d887fc6b50157081fd60082d20339c433f9955"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/LICENSE.txt",
+      "sha1": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-Black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-BlackItalic.ttf",
+      "sha1": "03d6e3747d862385dbe48e8296385b9236101a62"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-BoldItalic.ttf",
+      "sha1": "2f10ad9e8cab0880182705c4e0fbaeabae706e64"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-Italic.ttf",
+      "sha1": "65f3f6a7e1bd2fa6f2df35e4b07775d7f1dde4f0"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-LightItalic.ttf",
+      "sha1": "6e01f9df9449565697032b002706a94b51862bbe"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-MediumItalic.ttf",
+      "sha1": "b3aa2d8f16d5a331fdced82f213a052b204eaca0"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-Thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    },
+    {
+      "path": "src/asserts/fonts/Roboto/Roboto-ThinItalic.ttf",
+      "sha1": "cc79d5a23bd0ec08b1d99f5390bf33cacc3082f4"
+    }
+  ]
+}
